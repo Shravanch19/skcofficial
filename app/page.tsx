@@ -117,28 +117,6 @@ export default function Home() {
           </section>
 
           {/* Blogs Section */}
-          <section id="Blogs" className="mt-12">
-            <h2 className="text-2xl font-semibold">Blogs</h2>
-            <div className="grid md:grid-cols-3 gap-6 mt-4">
-              <div className="bg-gray-800 p-4 rounded">
-                <Link href={"/blog"}>
-                  <Image src="/assets/Dharavahik_logo.png" alt="Dharavahik" width={300} height={200} className="rounded" />
-                  <h3 className="mt-2 text-xl">Dharavahik</h3>
-                  <p>A Next.js based streaming platform.</p>
-                </Link>
-              </div>
-              <div className="bg-gray-800 p-4 rounded">
-                <Image src="/assets/MF_logo.jpeg" alt="Model Forge" width={300} height={200} className="rounded" />
-                <h3 className="mt-2 text-xl">Model Forge</h3>
-                <p>A Flask-based AI model generator.</p>
-              </div>
-              <div className="bg-gray-800 p-4 rounded">
-                <Image src="/assets/Jarvis_Logo.jpeg" alt="MyJarvis" width={300} height={200} className="rounded" />
-                <h3 className="mt-2 text-xl">MyJarvis</h3>
-                <p>A voice assistant for automation.</p>
-              </div>
-            </div>
-          </section>
 
           {/* Contact Section */}
           <section id="Contact" className="mt-12">
