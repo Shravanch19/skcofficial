@@ -1,0 +1,20 @@
+{
+    "dharavahik": {
+        "title": "Dharavahik - A Next.js Streaming Platform",
+        "description": "An overview of Dharavahik, a streaming platform built with Next.js.",
+        "image": "/Dharavahik_logo.png",
+        "content": "Dharavahik is an innovative streaming platform built using Next.js. It enables users to search for and stream movies/web series seamlessly. With AI-driven features, users can find content even if it's not in the database."
+    },
+    "model-forge": {
+        "title": "Model Forge - AI Model Generator",
+        "description": "How Model Forge helps automate AI model creation with Flask.",
+        "image": "/assets/MF_logo.jpeg",
+        "content": "Model Forge is an AI-based tool designed to automate the generation of machine learning models. Built with Flask, it allows users to define their dataset and get a model with minimal effort."
+    },
+    "myjarvis": {
+        "title": "MyJarvis - AI Voice Assistant",
+        "description": "Building an AI voice assistant for automating daily tasks.",
+        "image": "/assets/Jarvis_Logo.jpeg",
+        "content": "MyJarvis is an AI-powered virtual assistant that can handle tasks like automation, reminders, and even basic coding help. It integrates with various APIs to provide seamless assistance."
+    }
+}
