@@ -16,14 +16,14 @@ const projects: Project[] = [
     description: "A Next.js based streaming platform.",
     image: "/Dharavahik_logo.png",
     link: "https://dharavahik.vercel.app/",
-    github: "https://github.com/your-username/dharavahik",
+    github: "https://github.com/Shravanch19/Dharavahik",
   },
   {
     title: "Model Forge",
     description: "A Flask-based AI model generator.",
     image: "/MF_logo.jpeg",
     link: "http://modelforge.great-site.net/",
-    github: "https://github.com/your-username/modelforge",
+    github: "https://github.com/Shravanch19/ModelForge",
   },
   {
     title: "SkcHelp",
@@ -31,7 +31,7 @@ const projects: Project[] = [
       "A CLI tool for devs that offers auto-completions and AI-enhanced coding productivity.",
     image: "/Jarvis_Logo.jpeg",
     link: "https://helpskc.vercel.app/",
-    github: "https://github.com/your-username/skchelp",
+    github: "https://github.com/Shravanch19/skchelp.git",
   },
 ];
 
