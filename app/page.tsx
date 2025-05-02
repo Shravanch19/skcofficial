@@ -62,10 +62,10 @@ export default function Home() {
 
       {/* Content Container */}
       <div className="relative z-10 flex w-full">
-        <Sidebar />
+          <Sidebar />
         
         {/* Main Content */}
-        <main className="ml-20 p-8 w-full relative z-0">
+        <main className="sm:ml-20 p-8 w-full relative z-0">
           <Header />
           <HomeSection />
           <AboutSection />
